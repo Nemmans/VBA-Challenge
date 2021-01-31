@@ -1,3 +1,5 @@
+VBA Challenge
+
 Sub StockHW()
 
 ' Define & Initialize variables we'll use in script
